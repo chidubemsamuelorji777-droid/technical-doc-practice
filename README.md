@@ -6,6 +6,7 @@ This is a documentation repository meant for a portfolio entry.
 Digital globalisation has led to increased cybersecurity threats. 
 Both organisations and individuals have a role to play in combating potential threats. 
 Organisations have a greater liability due to their possession of sensitive and personal data. 
+
 The following are tools used by organisations to monitor and combat potential threats to data:
 
 #### Intrusion Detection/Prevention System (IDS/IPS)
