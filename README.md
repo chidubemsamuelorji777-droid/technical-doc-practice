@@ -49,4 +49,4 @@ Used for analyzing log data in real time and responding to threats. Examples inc
 | Penetration Testing | Metasploit | Simulates attacks to identify vulnerabilities |
 
 Organisations may need to use more or less of the tools mentioned here depending on the size of the establishment. 
-Hence, it is important to seek the services of a qualifies cybersecurity consultant.
+Hence, it is important to seek the services of a qualified cybersecurity consultant.
