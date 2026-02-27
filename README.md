@@ -42,7 +42,7 @@ Used for analyzing log data in real time and responding to threats. Examples inc
 
 #### Other cybersecurity tools that can be combined with the above to improve security infrastructure include:
 | Tool type | Example | Primary Function |
-| :-------- | :------ | :---------- |
+| --- | --- | --- |
 | Endpoint Detection and Response | CrowdStrike Falcon | Monitors end-user devices |
 | Vulnerability Scanner | Tenable Nessus | Scans and identifies security gaps and risks |
 | Identity and Access Management | Okta | Manages user identities |
