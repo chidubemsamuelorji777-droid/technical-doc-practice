@@ -12,7 +12,7 @@ The following are tools used by organisations to monitor and combat potential th
 #### Intrusion Detection/Prevention System (IDS/IPS)
 
 Used for monitoring and/or blocking potential threats. An example is: 
-- [**Suricata**](https://suricata.io/): This is both an IDS and IPS tool. It is very popular for easy usage and versatility.  
+- [**Suricata**](https://suricata.io/): Both an IDS and IPS tool. Popular for easy use and versatile features.  
    It is able to:
     - Create and run custom rules for monitoring traffic.
     - Monitor traffic captured in a .pcap file.
