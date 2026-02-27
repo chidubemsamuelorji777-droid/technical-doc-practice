@@ -40,7 +40,7 @@ Used for analyzing log data in real time and responding to threats. Examples inc
 
   ![Google SecOps Logo](https://metronlabs.com/uploads/Frame_1124_557e809425.jpg)
 
-Other cybersecurity tools that can be combined with the above to improve security infrastructure include:
+#### Other cybersecurity tools that can be combined with the above to improve security infrastructure include:
 | Tool type | Example | Primary Function |
 | :-------- | :------ | :---------- |
 | Endpoint Detection and Response | CrowdStrike Falcon | Monitors end-user devices |
