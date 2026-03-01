@@ -1,5 +1,5 @@
-# technical-doc-practice
-This is a documentation repository meant for a portfolio entry.
+# Markdown-practice
+This shows my proficiency in using markdown language for technical documentation.
 
 ### Cybersecurity tools
 
